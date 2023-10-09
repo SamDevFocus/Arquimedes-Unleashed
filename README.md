@@ -2,7 +2,7 @@
 
 Bem-vindo ao **Arquimedes Unleashed** - seu portal para explorar o incrível mundo da matemática, contas e calculadoras. Aqui, você encontrará exemplos, explicações e vídeos informativos para aprimorar suas habilidades matemáticas e tirar o máximo proveito das calculadoras.
 
-<a href="[https://seusite.com](https://samdevfocus.github.io/Arquimedes-Unleashed/)">
+<a href="https://samdevfocus.github.io/Arquimedes-Unleashed/">
   <img src="https://github.com/SamDevFocus/Arquimedes-Unleashed/blob/main/assets/img/iconePgJPG.jpeg?raw=true" width="400">
 </a>
 
