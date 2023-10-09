@@ -6,7 +6,7 @@ Bem-vindo ao **Arquimedes Unleashed** - seu portal para explorar o incrível mun
   <img src="https://github.com/SamDevFocus/Arquimedes-Unleashed/blob/main/assets/img/iconePgJPG.jpeg?raw=true" width="400">
 </a>
 
-Clique na imagem acima para saber mais sobre o **Arquimedes Unleashed** e visite o site!
+Clique na imagem acima **Arquimedes Unleashed** para visite o site!
 
 
 ## O que é o Arquimedes Unleashed?
